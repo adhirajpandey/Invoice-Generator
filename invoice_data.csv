@@ -1,0 +1,6 @@
+name,handle_id,state,pin_code,country,invoice_no,invoice_date,invoice_type,payment_terms,hsn_sac,rate,taxable_value,igst,total_amount
+Amit Shah,AS123,Delhi,110021,India,INV001,01-Oct-2023,B2C,Paypal,998311,1000.00,1000.00,180.00,1180.00
+Rahul Gandhi,RG456,Maharashtra,400021,India,INV002,02-Oct-2023,B2C,Paytm,998312,1500.00,1500.00,270.00,1770.00
+Narendra Modi,NM789,Gujarat,380009,India,INV003,03-Oct-2023,B2C,PhonePe,998313,2000.00,2000.00,360.00,2360.00
+Mamata Banerjee,MB101,West Bengal,700026,India,INV004,04-Oct-2023,B2C,Paytm,998314,2500.00,2500.00,450.00,2950.00
+Yogi Adityanath,YA202,Uttar Pradesh,226001,India,INV005,05-Oct-2023,B2C,Paypal,998315,3000.00,3000.00,540.00,3540.00

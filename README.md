@@ -2,7 +2,9 @@
 
 ## Overview
 
-The Invoice-Generator is a tool designed to facilitate the generation of multiple PDF invoices simultaneously, utilizing CSV data as its source. 
+The Invoice-Generator is a tool designed to facilitate the generation of multiple PDF invoices simultaneously, utilizing CSV data as its source.
+
+You can checkout `sample_invoice.pdf` to review the output of this tool. To customize it for your own use case, you can make changes in python script.
 
 ## Features
 

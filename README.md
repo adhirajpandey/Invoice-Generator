@@ -23,3 +23,7 @@ You can checkout `sample_invoice.pdf` to review the output of this tool. To cust
 ## Demonstration
 
 You can watch the whole setup and demonstration at : https://www.youtube.com/watch?v=v0VwMN33DTU
+
+Sample GIF:
+
+![Invoice_generator_raw](https://github.com/adhirajpandey/Invoice-Generator/assets/87516052/94295b49-0ff1-4bc9-af54-39f431cfd4fe)

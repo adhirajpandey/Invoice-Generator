@@ -19,3 +19,7 @@ You can checkout `sample_invoice.pdf` to review the output of this tool. To cust
 3. Checkout sample data and your custom data in `invoice_data.csv` and also add output directory.
 4. Make modifications in `generate.py` (if any).
 5. Run `python3 generate.py` to start generating PDF invoices for data in csv file.
+
+## Demonstration
+
+You can watch the whole setup and demonstration at : https://www.youtube.com/watch?v=v0VwMN33DTU
